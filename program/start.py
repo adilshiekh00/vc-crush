@@ -53,11 +53,11 @@ async def _human_time_duration(seconds):
 async def start_(client: Client, message: Message):
     await message.reply_text(
         f"""✨ **Welcome {message.from_user.mention()} !**\n
-💭 [{BOT_NAME}](https://t.me/{BOT_USERNAME}) **Allows you to play music and video on groups through the new Telegram's video chats!**
+💭 [{BOT_NAME}](https://t.me/{BOT_USERNAME}) **ＡＬＬＯＷＳ ＹＯU ＴＯ ＰＬＡＹ ＭUＳＩＣ ＡＮＤ ＶＩＤＥＯ ＯＮ ＧＲＯUＰＳ ＴＨＲＯUＧＨ ＴＨＥ ＮＥＷ ＴＥＬＥＧＲＡＭ'Ｓ ＶＩＤＥＯ ＣＨＡＴＳ!
+💡fＩＮＤ ＯUＴ ＡＬＬ ＴＨＥ ＢＯＴ'Ｓ ＣＯＭＭＡＮＤＳ ＡＮＤ ＨＯＷ ＴＨＥＹ ＷＯＲＫ ＢＹ ＣＬＩＣＫＩＮＧ ＯＮ ＴＨＥ » 📚 ＣＯＭＭＡＮＤＳ ＢUＴＴＯＮ!
+🔖 ＴＯ ＫＮＯＷ ＨＯＷ ＴＯ UＳＥ ＴＨＩＳ ＢＯＴ, ＰＬＥＡＳＥ ＣＬＩＣＫ ＯＮ ＴＨＥ » ❓ ＢＡＳＩＣ ＧUＩＤＥ ＢUＴＴＯＮ!،♥️🌿)**
 
-💡 **Find out all the Bot's commands and how they work by clicking on the » 📚 Commands button!**
-
-🔖 **To know how to use this bot, please click on the » ❓ Basic Guide button!**
+**https://telegra.ph/file/0d8f47d6c2b98d3ec751c.jpg**
 """,
         reply_markup=InlineKeyboardMarkup(
             [

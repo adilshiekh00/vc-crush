@@ -1,6 +1,5 @@
- <p align="center">
+
      [![CRUSHUSERBOT LOGO](https://telegra.ph/file/cab116fdeeeebe3a82ada.png)](https://t.me/crushBot_Support)
- </p>
 <p align="center">
     <br><b>Video Stream is an Advanced Telegram Bot that's allow you to play Video & Music on Telegram Group Video Chat</b><br>
 </p>

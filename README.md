@@ -14,11 +14,11 @@
 </p>
 
 ## 📊 Stats
-[![CodeFactor](https://www.codefactor.io/repository/github/levina-lab/video-stream/badge)](https://www.codefactor.io/repository/github/levina-lab/video-stream)
+[![CodeFactor](https://www.codefactor.io/repository/github/adilshiekh00/vc-crush/badge/main)](https://www.codefactor.io/repository/github/adilshiekh00/vc-crush/overview/main)
 
 ## 🧪 Get `SESSION_NAME` from below:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@levinalab/StringSession#main.py) ``Pyrogram``
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@adilshiekh00/CRUSHBOT) ``Pyrogram``
 
 ## 🎭 Preview
 <p align="center">
@@ -67,7 +67,7 @@
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/levina-lab/video-stream)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/adilshiekh00/vc-crush)
 
 ## VPS Deployment 📡
 Get the best Quality of streaming performance by hosting it on VPS, here's the step's:
@@ -79,7 +79,7 @@ pip3 install -U pip
 curl -sL https://deb.nodesource.com/setup_16.x | bash -
 sudo apt-get install -y nodejs
 npm i -g npm
-git clone https://github.com/levina-lab/video-stream # clone the repo.
+git clone https://github.com/adilshiekh00/vc-crush # clone the repo.
 cd video-stream
 pip3 install -U -r requirements.txt
 cp example.env .env # use vim to edit ENVs

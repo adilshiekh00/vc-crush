@@ -11,7 +11,7 @@
     "website": "https://t.me/levinachannel",
     "repository": "https://github.com/adilshiekh00/vc-crush",
     "success_url": "https://t.me/HARAMI_BACHA_HU_SAMBHAL_KAR",
-    "env": {HARAMI_BACHA_HU_SAMBHAL_KAR
+    "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
             "required": true

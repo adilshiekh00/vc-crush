@@ -1,7 +1,7 @@
 {
-    "name": "Video x Music Stream Bot",
-    "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/1c41ded2dd871eb36bd7e.png",
+    "name": "Crush Music Bot",
+    "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by @HARAMI_BACHA_HU_SAMBHAL_KAR",
+    "logo": "https://telegra.ph/file/0d8f47d6c2b98d3ec751c.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
@@ -9,9 +9,9 @@
         "pyrogram"
     ],
     "website": "https://t.me/levinachannel",
-    "repository": "https://github.com/levina-lab/video-stream",
-    "success_url": "https://t.me/dlwrml",
-    "env": {
+    "repository": "https://github.com/adilshiekh00/vc-crush",
+    "success_url": "https://t.me/HARAMI_BACHA_HU_SAMBHAL_KAR",
+    "env": {HARAMI_BACHA_HU_SAMBHAL_KAR
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
             "required": true
@@ -47,22 +47,22 @@
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": true,
-            "value": "VeezSupportGroup"
+            "value": "crushbottSupport"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
             "required": true,
-            "value": "levinachannel"
+            "value": "crushbottchannel"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": true,
-            "value": "dlwrml"
+            "value": "HARAMI_BACHA_HU_SAMBHAL_KAR"
         },
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": true,
-            "value": "Levina"
+            "value": "crush"
         }
     },
     "addons": [],
